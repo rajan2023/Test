@@ -1,0 +1,24 @@
+*,
+*::after,
+*::before{
+margin: 0px;
+padding: 0px ;
+}
+html{
+box-sizing: border-box;
+font-size:62.5%;
+font-family: 'Open Sans',sans-serif;
+}
+:root{
+    --button-color:#00464C;
+    --button-color-light:#285c61;
+
+    --input-font-size:1.4rem;
+
+
+    --font-family:'sans-serif';
+
+    --button-font-color:#fff;
+
+
+}
